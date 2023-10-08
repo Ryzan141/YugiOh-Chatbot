@@ -16,8 +16,6 @@ See Demo Videos below for a demonstration of commands.
 # Demo Videos:
 To see all availible commands:
 
-Demo Videos/!name.mp4
-
 https://github.com/Ryzan141/YugiOf-Chatbot/assets/121772170/26cc24da-80d5-4cfc-b525-9bdac4016c12
 
 
