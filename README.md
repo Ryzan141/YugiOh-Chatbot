@@ -15,9 +15,9 @@ See Demo Videos below for a demonstration of commands.
 
 # Demo Videos:
 To see all availible commands:
-[<video src="https://github.com/Ryzan141/YugiOh-Chatbot/blob/main/Demo%20Videos/!help.mp4"></video>
-](https://github.com/Ryzan141/YugiOh-Chatbot/blob/main/Demo%20Videos/!help.mp4)
-test-------
+
+https://github.com/Ryzan141/YugiOh-Chatbot/blob/main/Demo%20Videos/!help.mp4
+
 https://github.com/Ryzan141/YugiOf-Chatbot/assets/121772170/26cc24da-80d5-4cfc-b525-9bdac4016c12
 
 
