@@ -8,3 +8,5 @@ To use, do the following:
 4. Choose which server you want to add the bot in
 5. Your done! type "!help" into a chat in the server to find a list of commands you can use
 6. To use a command type the '!' key followed by the command name (ex: !fname cardname)
+
+https://github.com/Ryzan141/YugiOf-Chatbot/blob/main/Demo%20Videos/!help.mp4
