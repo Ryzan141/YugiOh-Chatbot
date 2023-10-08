@@ -6,7 +6,7 @@ To use, do the following:
 2. If you don't have admin priviledge for a server, get admin privileges
 3. Click the following link: https://discord.com/api/oauth2/authorize?client_id=1053478100245159937&permissions=8&scope=bot%20applications.commands
 4. Choose which server you want to add the bot in
-5. Your done! type "!help" into a chat in the server to find a list of commands you can use
+5. You successfully added the bot into server. Type "!help" into a chat in the server to find a list of commands you can use
 6. To use a command type the '!' key followed by the command name (ex: !fname cardname)
 <br />
 See Demo Videos below for a demonstration of commands.
