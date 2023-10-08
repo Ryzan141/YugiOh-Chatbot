@@ -1,4 +1,4 @@
-# YugiOf-Chatbot
+# YugiOh-Chatbot
 This is a bot used for Discord regarding the card game YugiOh.
 # Documentation:
 To use, do the following:
