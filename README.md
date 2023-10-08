@@ -9,4 +9,7 @@ To use, do the following:
 5. Your done! type "!help" into a chat in the server to find a list of commands you can use
 6. To use a command type the '!' key followed by the command name (ex: !fname cardname)
 
-https://github.com/Ryzan141/YugiOf-Chatbot/blob/main/Demo%20Videos/!help.mp4
+
+
+https://github.com/Ryzan141/YugiOf-Chatbot/assets/121772170/42043b38-daf9-41aa-95ab-be18d416a087
+
