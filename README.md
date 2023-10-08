@@ -8,7 +8,9 @@ To use, do the following:
 4. Choose which server you want to add the bot in
 5. Your done! type "!help" into a chat in the server to find a list of commands you can use
 6. To use a command type the '!' key followed by the command name (ex: !fname cardname)
+<br />
 See Demo Videos below for a demonstration of commands.
+<br />
 (NOTE: Currently the server for the bot is not online so the bot is not active at the moment.)
 
 # Demo Videos:
