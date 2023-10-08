@@ -16,17 +16,17 @@ See Demo Videos below for a demonstration of commands.
 # Demo Videos:
 To see all availible commands:
 
-https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/fc45892d-9927-4640-ac86-a112b9f9ad76
+https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/8acad95e-7750-4621-b89f-4c534bd4b095
 
 
 To find all cards with a specified word in their name:
 
-https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/1aeb8b09-a355-4688-9016-c5e429fccb19
+https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/14cd1b62-0c32-4ba9-92e6-29627820677d
 
 
 To use other search commands:
 
-https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/14cd1b62-0c32-4ba9-92e6-29627820677d
+https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/1aeb8b09-a355-4688-9016-c5e429fccb19
 
 
 To see the details of a specific card:
@@ -36,5 +36,6 @@ https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/be032376-b569-4f9a-a
 
 To play a card guessing game:
 
-https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/8acad95e-7750-4621-b89f-4c534bd4b095
+https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/fc45892d-9927-4640-ac86-a112b9f9ad76
+
 
