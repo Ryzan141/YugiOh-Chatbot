@@ -16,8 +16,8 @@ See Demo Videos below for a demonstration of commands.
 # Demo Videos:
 To see all availible commands:
 
-https://github.com/Ryzan141/YugiOf-Chatbot/assets/121772170/26cc24da-80d5-4cfc-b525-9bdac4016c12
-
+[https://github.com/Ryzan141/YugiOf-Chatbot/assets/121772170/26cc24da-80d5-4cfc-b525-9bdac4016c12
+](https://github.com/Ryzan141/YugiOh-Chatbot/blob/4e5088d62bfe3507b654ee7ee11e74c69faac655/Demo%20Videos/!fname.mp4)
 
 To find all cards with a specified word in their name:
 
