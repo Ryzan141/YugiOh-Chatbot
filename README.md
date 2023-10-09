@@ -29,9 +29,10 @@ To use other search commands:
 
 https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/1aeb8b09-a355-4688-9016-c5e429fccb19
 
+
 To find all cards that fit multiple criterias:
 
-https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/fc45892d-9927-4640-ac86-a112b9f9ad76
+https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/b34f4e80-95ca-4c23-bc82-48126a28abe4
 
 
 To see the details of a specific card:
@@ -41,8 +42,5 @@ https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/be032376-b569-4f9a-a
 
 To play a card guessing game:
 
-
-https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/b34f4e80-95ca-4c23-bc82-48126a28abe4
-
-
+https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/fc45892d-9927-4640-ac86-a112b9f9ad76
 
