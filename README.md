@@ -24,6 +24,7 @@ To find all cards with a specified word in their name:
 
 https://github.com/Ryzan141/YugiOh-Chatbot/assets/121772170/14cd1b62-0c32-4ba9-92e6-29627820677d
 
+*Note the scrolling emojis are implemented by storing search history for each server and reaccessing, and grabbing the new value list and overwrite the previous list
 
 To use other search commands:
 
